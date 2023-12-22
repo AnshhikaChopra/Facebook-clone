@@ -1,0 +1,242 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #f0f2f5;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container1{
+    height: 560px;
+    width: 1090px;
+    padding-top: 72px;
+    padding-bottom:112px;
+
+}
+.container2{
+    height: 500px;
+    width: 980px;
+    padding: 20px 0px;
+    margin: 0px 300px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Facebook{
+    height: 266px;
+    width: 550px;
+    
+
+}
+.Facebook img{
+    height: 50px;
+    padding-top: 112px;
+    padding-bottom: 16px;
+}
+
+.text{
+    font-size: 28px;
+    height: 64px;
+    width: 500px;
+}
+
+.container3{
+    height: 400px;
+    width: 400px;
+    align-content: center;
+   
+}
+.sign-in-card{
+    height: 315px;
+    width: 400px;
+    padding: 10px 0px 24px;
+    margin-top: 40px;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.login-info{
+    height: 130px;
+    width: 400px;
+}
+
+.ID{
+    background-color: white;
+    padding: 5px;
+}
+
+._col{
+    background-color: white;
+    box-shadow: #8a8d91;
+}
+
+.username{
+    background-color: white;
+    color: grey;
+    border-radius: 6px;
+    padding: 2px 0px;
+    border: 1px solid #ccd0d5;
+    font-size: 16px;
+}
+
+.password{
+    background-color: white;
+    color: grey;
+    border-radius: 5px;
+    padding: 2px 0px;
+    border: 1px solid #ccd0d5;
+    font-size: 16px;
+
+}
+
+.login-info input{
+    padding: 10px;
+    height: 30px;
+    width: 360px;
+}
+.log-in{
+    height: 48px;
+    width: 381px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.login-info :focus-visible{
+   border: 2px solid #3578E5;
+   outline: none;
+   color: black;
+}
+.forgotten{
+    margin-top: 16px;
+}
+
+.forgotpass{
+    color: #1877f2;
+    height: 18px;
+    width: 400px;
+    margin-top: 16px;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+}
+.forgotten :hover{
+    text-decoration: underline;
+}
+a :hover{
+    text-decoration: underline;
+}
+
+.line{
+    border: 1px solid #dddfe2;
+    margin: 25px 0px;
+}
+.create-account{
+    height: 48px;
+    width: 200px;
+    padding: 0px 16px;  
+    background-color: #42b72a;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.createpage{
+    font-size: 14px;
+    margin-top: 28px;
+    text-align: center;
+    width: 396px;
+}
+.createpage a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    background-color: #f0f2f5;
+}
+.createpage :hover{
+    text-decoration: underline;
+}
+
+.footer{
+    height: 156px;   
+    background-color: white;
+    list-style-type: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+ul{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    background-color: white;
+}
+
+#contentCurve{
+    border-bottom: 1px solid #dddfe2;
+    margin-top: 8px;
+    width: 950px;
+    margin-left: 12px;
+}
+
+.footer0{
+    background-color: white;
+    margin: 0px 300px;
+}
+.footer1{
+    height: 20px;
+    width: 940px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li{
+    padding-left: 15px;
+    background-color: white;
+    font-size: 12px;
+    color: #8a8d91;
+}
+
+.foot{
+    background-color: white;
+
+}
+.footer2{
+    padding-top: 10px;
+    width: 980px;
+}
+
+.footer2 li{
+    padding-top: 10px;
+}
+a{
+    background-color: white;
+    text-decoration: none;
+    color: #8a8d91;
+}
+
+li :hover{
+    text-decoration-line: underline;
+}
+span{
+    font-size: 11px;
+    color: #8a8d91;
+    background-color: white;
+}
+
+.footer3{
+    margin: 20px 0px;
+    padding-left: 15px;
+
+}
